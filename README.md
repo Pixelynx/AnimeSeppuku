@@ -21,3 +21,4 @@ TBD
 
 ## Bonus Features
 * Ability to choose between different characters whose fate is in the player's hands
+* Two player mode
