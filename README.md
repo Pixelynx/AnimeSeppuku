@@ -17,7 +17,7 @@ Animu Seppuku is a little web application that has a relatively identicle concep
 * [Schema](./docs/schema.sql)
 
 ## Implementation Timeline
-TBD
+* TBD
 
 ## Bonus Features
 * Ability to choose between different characters whose fate is in the player's hands
