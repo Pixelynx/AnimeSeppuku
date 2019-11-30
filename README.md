@@ -1,4 +1,4 @@
-# AnimuSeppuku
+# AnimuSeppuku *
 ---
 ## MVP
 Animu Seppuku is a little web application that has a relatively identicle concept as hangman. The only different is that instead of a man's body parts gradually being build for every incorrect guess until you have a full body that has been hanged; once you've run out of guesses, an anime character will commit seppuku as you have brought dishonour upon them. This web application will be built using Python. The initial renidition of this application will be able to accomplish the following:
