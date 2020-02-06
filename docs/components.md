@@ -1,13 +1,23 @@
 # Components
 ---
+## Root
+* WelcomePage
+  * Button to start game
+* CharacterSelect
+  * Character options
+
 ## Stage
-* CharacterBuild
+* StagePage
+* BuildCharacter
+  * Connects with CharacterSelect
 
 ## Guesses
-* guessComponent
+* WordComponent
 
 ## Countdown
-* countdownComponent
+* CountdownComponent
 
 ## Endgame
-* endgameComponent
+* WinComponent
+* LoseComponent
+* PlayAgainComponent
