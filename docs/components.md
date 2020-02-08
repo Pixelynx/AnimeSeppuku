@@ -9,7 +9,7 @@
 
 ## Stage
 * StagePage
-  * State: wordToGuess, 
+  * State: wordToGuess, charCount, countTime
 * BuildCharacter
   * Connects with CharacterSelect?
   * Passes props to guesses component
