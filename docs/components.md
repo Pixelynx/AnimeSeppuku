@@ -5,11 +5,14 @@
   * Button to start game
 * CharacterSelect
   * Character options
+  * Confirm Character Button
 
 ## Stage
 * StagePage
+  * State: wordToGuess, 
 * BuildCharacter
-  * Connects with CharacterSelect
+  * Connects with CharacterSelect?
+  * Passes props to guesses component
 
 ## Guesses
 * WordComponent
