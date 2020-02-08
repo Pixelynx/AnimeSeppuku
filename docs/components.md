@@ -9,18 +9,24 @@
 
 ## Stage
 * StagePage
-  * State: wordToGuess, charCount, countTime
+  * State: wordToGuess, charCount, countdown
+* ListOfWords
 * BuildCharacter
+  * Component for parts of characters
   * Connects with CharacterSelect?
   * Passes props to guesses component
 
 ## Guesses
 * WordComponent
+  * WordToGuess passed as props
+  * CharCount passed as props
 
 ## Countdown
 * CountdownComponent
+  * Countdown passed as props
 
 ## Endgame
 * WinComponent
 * LoseComponent
 * PlayAgainComponent
+  * Clears stage
