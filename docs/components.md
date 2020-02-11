@@ -1,13 +1,32 @@
 # Components
 ---
+## Root
+* WelcomePage
+  * Button to start game
+* CharacterSelect
+  * Character options
+  * Confirm Character Button
+
 ## Stage
-* CharacterBuild
+* StagePage
+  * State: wordToGuess, charCount, countdown
+* ListOfWords
+* BuildCharacter
+  * Component for parts of characters
+  * Connects with CharacterSelect?
+  * Passes props to guesses component
 
 ## Guesses
-* guessComponent
+* WordComponent
+  * WordToGuess passed as props
+  * CharCount passed as props
 
 ## Countdown
-* countdownComponent
+* CountdownComponent
+  * Countdown passed as props
 
 ## Endgame
-* endgameComponent
+* WinComponent
+* LoseComponent
+* PlayAgainComponent
+  * Clears stage
