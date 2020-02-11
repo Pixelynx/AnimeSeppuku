@@ -1,1 +1,1 @@
-<img src="./animuSeppuku_STAGE.jpg" width="100%" />
+<img src="./animuSeppuku_STAGE.JPG" width="100%" />
