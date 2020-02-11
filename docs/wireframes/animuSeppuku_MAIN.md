@@ -1,0 +1,1 @@
+<img src="./animuSeppuku_MAIN.jpg" width="100%" />
